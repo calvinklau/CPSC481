@@ -1,4 +1,4 @@
-# <App Name>
+# Home
 
 ## Project Details
 * Restaurant Table Availability App
