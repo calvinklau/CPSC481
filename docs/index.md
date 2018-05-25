@@ -1,13 +1,13 @@
-# CPSC 481 - T02
+# <App Name>
 
-## Project Name
+## Project Details
 * Restaurant Table Availability App
 * Members
     * Bryan McGregor ()
     * Calvin Lau (10151228)
     * Matthew Armstrong (10161706)
     * Yue Zhang (10148960)
-* T02 - Bruna Christina 
+* Tutorial: T02 (Bruna Christina)
 
 ## Project Idea
 
