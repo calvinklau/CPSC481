@@ -1,4 +1,4 @@
-# CPSC 481 - 2017S
+# CPSC 481
 
 [Home](index.md)
 

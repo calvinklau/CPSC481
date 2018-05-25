@@ -1,6 +1,6 @@
 # CPSC 481 - T02
 
-## <Project Name - TBD>
+## Project Name
 * Restaurant Table Availability App
 * Members
     * Bryan McGregor ()
