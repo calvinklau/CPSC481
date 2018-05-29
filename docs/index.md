@@ -1,9 +1,9 @@
-# Home
+# SeatSeeker
 
 ## Project Details
 * Restaurant Table Availability App
 * Members
-    * Bryan McGregor ()
+    * Bryan McGregor (30016587)
     * Calvin Lau (10151228)
     * Matthew Armstrong (10161706)
     * Yue Zhang (10148960)
